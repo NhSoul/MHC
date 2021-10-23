@@ -2,16 +2,16 @@
   "$schema": "file:///D:/Workspaces/Nebula/Launcher/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "mhc (Minecraft 1.12.2)",
-    "description": "mhc Running Minecraft 1.12.2 (Forge v14.23.5.2855)",
-    "address": "localhost:25565",
+    "name": "My Hero Craft",
+    "description": "MHC Modpack",
+    "address": "87.98.170.178:25629",
     "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "shortId": "",
+      "largeImageText": "",
+      "largeImageKey": ""
     },
     "mainServer": false,
-    "autoconnect": false
+    "autoconnect": true
   },
   "forge": {
     "version": "14.23.5.2855"
